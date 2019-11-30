@@ -24,7 +24,9 @@
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
-    "globals": { "_": true },
+    "globals": {
+      "_": true
+    },
     "root": true,
     "env": {
       "node": true
